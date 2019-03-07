@@ -1,0 +1,7 @@
+1. float window for task paremeters
+https://shiny.rstudio.com/gallery/superzip-example.html
+
+2. Add questions for tasks for better practices
+
+3. plot size can be drag
+https://yang-tang.github.io/shinyjqui/
